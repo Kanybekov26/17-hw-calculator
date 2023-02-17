@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/17-hw-calculator/static/css/main.d6c92bfa.css",
+    "main.js": "/17-hw-calculator/static/js/main.9af677cc.js",
+    "index.html": "/17-hw-calculator/index.html",
+    "main.d6c92bfa.css.map": "/17-hw-calculator/static/css/main.d6c92bfa.css.map",
+    "main.9af677cc.js.map": "/17-hw-calculator/static/js/main.9af677cc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6c92bfa.css",
+    "static/js/main.9af677cc.js"
+  ]
+}
